@@ -1,8 +1,8 @@
-module halfsubtractor(a,b,d,bo);
-input a,b;
+module halfsubtractor( D,Bo,A,B);
+input A,B;
+output D,Bo;
 wire w1;
-output d,bo;
-xor g1(d,a,b);
-not g2(w1,a);
-and g3(bo,w1,b);
+xor (D,A,B);
+not (w1,B);
+and (Bo,B,w1);
 endmodule
