@@ -1,10 +1,10 @@
 # SIMULATE AND SYNTHESIS OF LOGIC GATES ,ADDERS AND SUBTRACTORS
 
-AIM: To simulate and synthesis Logic Gates,Adders and Subtractor using Vivadoo Software
+**AIM:** To simulate and synthesis Logic Gates,Adders and Subtractor using Vivadoo Software
 
-APPARATUS REQUIRED: Vivado™ ML 2023.2
+**APPARATUS REQUIRED:** Vivado™ ML 2023.2
 
-PROCEDURE:
+**PROCEDURE:**
 
 Open Vivado: Launch Xilinx Vivado software on your computer.
 
@@ -24,7 +24,7 @@ Run Simulation: Start the simulation by clicking on the "Run" button in the simu
 
 View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 
-Logic Diagram :
+**Logic Diagram :**
 
 Logic Gates:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
@@ -59,7 +59,7 @@ Full Subtractor:
 
 
 
-VERILOG CODE:
+**VERILOG CODE:**
 
 logic gates:
 ~~~
@@ -247,5 +247,5 @@ elaborated design:
 
 
 
-RESULT:
+**RESULT:**
  simulation and synthesis of Logic Gates,Adders and Subtractor are succesfully verified using Xilinx ISE.
